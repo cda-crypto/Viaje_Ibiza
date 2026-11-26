@@ -92,7 +92,8 @@ S'han configurat els següents elements al compte del centre:
   - **Dia 7:** Compras d'última hora a Eivissa Centre i vol/ferri de tornada al punt d'origen.
 - **Enllaç a la ruta de Google Maps:** `https://maps.google.com/example-ruta-eivissa-7dies` *(guardat a la configuració)*.
 
-![Ruta a Google Maps](Screenshot_2026-11-26_10.48.38.png)
+<img width="1920" height="1080" alt="Screenshot 2026-11-26 10 48 38" src="https://github.com/user-attachments/assets/9698af1d-2af0-426e-96f8-d6511b782d13" />
+
 
 ---
 
@@ -111,7 +112,10 @@ Es dissenya un full de càlcul amb la distribució de despeses per a una persona
 #### Explicació de la funció IF:
 La funció `=IF(condició; valor_si_cert; valor_si_fals)` avalua si la cel·la del total (`B5`) és menor o igual a **1.500 €**. Com que el total és **1.420 €**, la condició es compleix i el full mostra automàticament el text `"Dins del pressupost"`. Si se superés aquesta quantitat, mostraria `"T'has passat"`.
 
-![Pressupost a Google Sheets](Google_sheets_cauculos_viaje.png)
+captura hojas de calculo:
+
+<img width="1920" height="1080" alt="Google sheets cauculos viaje" src="https://github.com/user-attachments/assets/e4857c5e-a541-431a-a0c9-a7f7d7457f1c" />
+
 
 ---
 
@@ -129,15 +133,17 @@ La funció `=IF(condició; valor_si_cert; valor_si_fals)` avalua si la cel·la d
 
 #### Captures de pantalla del calendari i tasques:
 
-![Creació de l'esdeveniment del viatge](Screenshot_2026-11-26_11.03.53.png)
+<img width="1920" height="1080" alt="Screenshot 2026-11-26 11 03 53" src="https://github.com/user-attachments/assets/dfb3445b-97ec-43b9-a325-20b646884ea3" />
 
-![Tasca: Recordatori de comprar bitllets](Screenshot_2026-11-26_11.09.47.png)
+<img width="1920" height="1080" alt="Screenshot 2026-11-26 11 09 47" src="https://github.com/user-attachments/assets/60d731ec-5414-49e2-9012-fe80e8cdccb6" />
 
-![Tasca: Comprar allotjament](Screenshot_2026-11-26_11.11.06.png)
+<img width="1920" height="1080" alt="Screenshot 2026-11-26 11 11 06" src="https://github.com/user-attachments/assets/0d664743-2de2-4bd7-961a-8734146c9221" />
 
-![Tasca: Fer maletes i preparar documentació](Screenshot_2026-11-26_11.12.10.png)
+<img width="1920" height="1080" alt="Screenshot 2026-11-26 11 12 10" src="https://github.com/user-attachments/assets/a3a00ede-76ec-4e51-ac68-a5c837d1065b" />
 
-![Vista mensual del calendari i tasques](Screenshot_2026-11-26_11.13.46.png)
+<img width="1920" height="1080" alt="Screenshot 2026-11-26 11 13 46" src="https://github.com/user-attachments/assets/cc9a360f-1d01-4aa4-a1f0-8510e1f7893f" />
+
+
 
 ---
 
