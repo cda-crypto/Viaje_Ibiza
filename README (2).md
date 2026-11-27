@@ -1,6 +1,12 @@
 # Pràctica P5.1: Organització d'un Viatge a Eivissa(Ibiza) amb Eines de Google
 
-Aquest repositori conté la documentació i memòria del projecte per a la pràctica **P5.1 - Organitza un viatge amb Google** corresponent al mòdul d'**Aplicacions Web (0228) - RA5**.
+Nom: Carlos Da Silva
+
+curs: SMX1B 
+
+cuentas:
+
+drive:
 
 ---
 
