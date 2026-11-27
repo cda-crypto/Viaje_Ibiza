@@ -41,6 +41,9 @@ S'han configurat els següents elements al compte del centre:
 5. **Filtre 4 (Professor 2):** Els correus enviats pel segon professor es marquen sempre com a **importants**.
 6. **Resposta automàtica de vacances:** Activada amb el missatge `"Estic de vacances!"` i les dates del viatge seleccionades.
 
+<img width="1920" height="1080" alt="Captura de pantalla de 2026-11-27 12-50-40" src="https://github.com/user-attachments/assets/82aa7358-9f68-414f-9b1e-48f674d61078" />
+
+
 ---
 
 ## Fase 2: Comprovació d'accés i capçaleres de correu
